@@ -1,0 +1,37 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+    color: white;
+
+    /*imagem de fundo*/
+
+    background-image: url(./imgs/gato\ awa.webp);
+    background-size: cover; /* Faz a imagem cobrir toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+}
+
+.fontes{
+    background-image: url(./imgs/pexels-googledeepmind-17484975.jpg);
+    background-size: cover; /* Faz a imagem cobrir toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    background-attachment: fixed;
+}
+
+.fontes table{
+    width: 20%;
+    border-collapse: collapse;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255, 0.7);
+    font-size: 1em;
+    text-decoration: none;
+    text-align: center;
+}
